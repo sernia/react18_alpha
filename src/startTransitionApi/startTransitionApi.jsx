@@ -65,4 +65,6 @@ const PhotoCard = React.memo(({ searchParam }) => {
   return <PhotoListCard data={photoData}  />;
 });
 
+
+
 export default PhotoCard;
